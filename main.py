@@ -11,4 +11,4 @@ if __name__ == "__main__":
         )
 
         time.sleep(120*60)  # every 10 seconds send the notification
-        
+ #icon must be .ico file       
