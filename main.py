@@ -10,5 +10,5 @@ if __name__ == "__main__":
             timeout = 10  #notification remains on screen for 10 seconds
         )
 
-        time.sleep(120*60)  # every 10 seconds send the notification
+        time.sleep(120*60)  # every 2 hours send the notification
  #icon must be .ico file       
